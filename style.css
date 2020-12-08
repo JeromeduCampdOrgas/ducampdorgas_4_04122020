@@ -107,6 +107,16 @@ a:hover {
     color: rgba(255, 255, 255, .9);
 }
 
+.visually-hidden {
+    position: absolute !important;
+    border: 0 !important;
+    height: 1px !important;
+    width: 1px !important;
+    padding: 0 !important;
+    overflow: hidden !important;
+    clip: rect(0, 0, 0, 0) !important;
+  }
+
 .d-bloc .icon-round,
 .d-bloc .icon-square,
 .d-bloc .icon-rounded,
@@ -1027,6 +1037,21 @@ h4 {
         height: 320px;
     }
 }
+
+.citation{
+    width:530px;
+    font-weight:bold;
+    font-size:1.5em;
+    font-style:italic;
+    margin:auto;
+    color:black;
+}
+
+.hors-ecran {
+    position: absolute;
+    left: -99999rem;
+ }
+/*************************************************************/
 
 @media (max-width: 400px) {
     .bloc {
