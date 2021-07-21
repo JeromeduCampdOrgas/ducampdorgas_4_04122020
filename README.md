@@ -5,3 +5,7 @@ Vous travaillez pour La chouette agence, une grande agence de web design basée 
 <div style="width:100%;text-align:center;">
 <img src = "https://user.oc-static.com/upload/2019/04/15/15553465193309_icon-above-font.png">
 </div>
+<h3>Rapport du site original</h3>
+<img src = "img/rapport_original.png">
+<h3>Rapport du site optimisé</h3>
+<img src = "img/rapport_site_modifie.png">
